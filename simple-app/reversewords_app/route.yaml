@@ -3,7 +3,6 @@ kind: Route
 metadata:
   name: reverse-words
 spec:
-  host: reverse-words.2886795297-80-jago05.environments.katacoda.com
   port:
     targetPort: http
   tls:
